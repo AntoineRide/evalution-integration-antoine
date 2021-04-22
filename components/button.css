@@ -1,0 +1,17 @@
+.buttom{
+    background-color: #0AA8A7;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    width: 50%;
+    border-radius: 40px;
+    margin: auto;
+}
+
+.buttom p {
+    text-align: center;
+    color: #FDFEFE;
+    font-size: 15px;
+
+}
